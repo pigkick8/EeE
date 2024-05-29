@@ -6,3 +6,10 @@ if player1 == '가위':
 elif player1 == "바위":
 
 else:
+    if player 2 == '바위':
+        print("player 1 win)
+    elif player 2 == '보':
+        print("tie")
+    else:
+        print("player 2 win")
+    
