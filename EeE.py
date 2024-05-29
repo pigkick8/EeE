@@ -18,9 +18,9 @@ elif player1 == "바위":
 		print("player2 승리")
 
 else:
-    if player 2 == '바위':
+    if player2 == '바위':
         print("player 1 win")
-    elif player 2 == '보':
+    elif player2 == '보':
         print("tie")
     else:
         print("player 2 win")
