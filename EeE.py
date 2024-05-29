@@ -10,5 +10,11 @@ if player1 == '가위':
 		print("player1이김")
 
 elif player1 == "바위":
+	if player2 == "바위":
+		print("player1, player2 비김!!")
+	elif player2 == "가위":
+		print("player1 승리")
+	else:
+		print("player2 승리")
 
 else:
